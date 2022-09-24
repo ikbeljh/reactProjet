@@ -13,5 +13,5 @@ const NewExpense = () => {
     </div>
   );
 };
-//test modif
+
 export default NewExpense;
